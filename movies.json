@@ -1,0 +1,82 @@
+{
+    "movies": [
+         {
+            "title": "World War Z",
+            "duration": "116 Minutes",
+            "storyline": "United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself",
+            "poster_url": "http://www.impawards.com/2013/posters/world_war_z.jpg",
+            "youtube_trailer_url": "www.youtube.com/watch?v=HcwTxRuq-uk",
+            "director" : {
+                "first_name": "Marc",
+                "last_name": "Forster",
+                "gender": "Male",
+                "imdb_url": "http://www.imdb.com/name/nm0286975"
+            }
+        },
+        {
+            "title": "Man of Steel",
+            "duration": "143 Minutes",
+            "storyline": "Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction",
+            "poster_url": "http://static.comicvine.com/uploads/original/0/40/2733755-hr_man_of_steel_4_1.jpeg",
+            "youtube_trailer_url": "www.youtube.com/watch?v=T6DJcgm3wNY",
+            "director": {
+                "first_name": "Zack",
+                "last_name": "Snyder",
+                "gender": "Male",
+                "imdb_url": "http://www.imdb.com/name/nm0811583"
+            }
+        },
+        {
+            "title": "John Wick",
+            "duration": "101 Minutes",
+            "storyline": "An ex-hitman comes out of retirement to track down the gangsters that took everything from him",
+            "poster_url": "http://www.flickeringmyth.com/wp-content/uploads/2014/10/john-wick.jpg",
+            "youtube_trailer_url": "https://www.youtube.com/watch?v=RllJtOw0USI",
+            "director": {
+                "first_name": "Chad",
+                "last_name": "Stahelski",
+                "gender": "Male",
+                "imdb_url": "http://www.imdb.com/name/nm0821432"
+            }
+        },
+        {
+            "title": "Max Max: Fury Road",
+            "duration": "120 Minutes",
+            "storyline": "In a stark desert landscape where humanity is broken, two rebels just might be able to restore order: Max, a man of action and of few words, and Furiosa, a woman of action who is looking to make it back to her childhood homeland",
+            "poster_url": "http://cdn2-www.superherohype.com/assets/uploads/gallery/mad-max-fury-road_1/11110866_658246694280855_1682386295316885693_o.jpg",
+            "youtube_trailer_url": "https://www.youtube.com/watch?v=hEJnMQG9ev8",
+            "director": {
+                "first_name": "George",
+                "last_name": "Miller",
+                "gender": "Male",
+                "imdb_url": "http://www.imdb.com/name/nm0004306"
+            }
+        },
+        {
+            "title": "Interstellar",
+            "duration": "169 Minutes",
+            "storyline": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival",
+            "poster_url": "http://www.impawards.com/2014/posters/interstellar_ver2_xlg.jpg",
+            "youtube_trailer_url": "https://www.youtube.com/watch?v=ePbKGoIGAXY",
+            "director": {
+                "first_name": "Christopher",
+                "last_name": "Nolan",
+                "gender": "Male",
+                "imdb_url": "http://www.imdb.com/name/nm0634240"
+            }
+        },
+        {
+            "title": "Inception",
+            "duration": "148 Minutes",
+            "storyline": "A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO",
+            "poster_url": "http://www.impawards.com/2010/posters/inception.jpg",
+            "youtube_trailer_url": "www.youtube.com/watch?v=8hP9D6kZseM",
+            "director": {
+                "first_name": "Christopher",
+                "last_name": "Nolan",
+                "gender": "Male",
+                "imdb_url": "http://www.imdb.com/name/nm0634240"
+            }
+        }
+    ]
+}
